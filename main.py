@@ -126,7 +126,7 @@ class Restaurant :
     # starting restaurant
     def call(self) : 
         # welcome message
-        print("\n---Welcome to our HIT Restaurant---")
+        print("\n---Welcome to our HIT Cafe---")
         while True :
             print("\n1 -> Sign Up")
             print("2 -> Log In")
